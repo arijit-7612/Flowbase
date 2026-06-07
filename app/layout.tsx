@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 import { SyncClerkUser } from "@/components/sync-clerk-user";
 
 export const metadata: Metadata = {
-  title: "Next.js Premium Startup Boilerplate",
-  description: "Created using the ultimate interactive Next.js stack generator CLI.",
+  title: "Flowbase",
+  description: "A cozy productivity workspace for notes, boards, tasks, and AI-assisted planning.",
 };
 
 export default function RootLayout({
